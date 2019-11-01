@@ -9,7 +9,7 @@ body, html {
 
 .bg {
     /* The image used */
-    background-image: url("Page1.4.jfif");
+    background-image: url("page1.4.jfif");
 
     /* Full height */
     height: 100%;
