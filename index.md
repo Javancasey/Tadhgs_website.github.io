@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body, html {
+    height: 100%;
+    margin: 0;
+}
 
-You can use the [editor on GitHub](https://github.com/Javancasey/tadhg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+.bg {
+    /* The image used */
+    background-image: url("Page1.4.jfif");
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    /* Full height */
+    height: 100%;
+    width: 100%;
 
-### Markdown
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+</style>
+<style>
+.button {
+    background-color: #3355FF;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+</style>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<title>Tadhg's Project</title>
 
-```markdown
-Syntax highlighted code block
+</head>
+<body>
 
-# Header 1
-## Header 2
-### Header 3
+<div class="bg"></div>
 
-- Bulleted
-- List
+<h1 align="center" style="font-size:300%;">Tadhg's Project1</h1>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<button align="center" class="button" onclick="window.open('page1.md')">Peramids</button>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<button align="center" class="button" onclick="window.open('page2.md')">Pheros</button>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Javancasey/tadhg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
