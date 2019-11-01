@@ -46,9 +46,9 @@ body, html {
 
 
 
-<button align="center" class="button" onclick="window.open('page2.html')">Peramids</button>
+<button align="center" class="button" onclick="window.open('page2.html')">Pyramid's</button>
 
-<button align="center" class="button" onclick="window.open('page3.html')">Pheros</button>
+<button align="center" class="button" onclick="window.open('page3.html')">Pharaoh's</button>
 
 
 </body>
