@@ -47,7 +47,7 @@ body, html {
 
 
 
-<button align="center" class="button" onclick="window.open('https://github.com/Javancasey/tadhg.github.io/blob/master/Page2.html')">Peramids</button>
+<button align="center" class="button" onclick="window.open('Page2.html')">Peramids</button>
 
 <button align="center" class="button" onclick="window.open('file:///c:/users/caseyja/desktop/html/HTML test.bat')">Pheros</button>
 
