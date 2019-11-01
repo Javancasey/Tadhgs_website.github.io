@@ -46,8 +46,7 @@ body, html {
 <h1 align="center" style="font-size:300%;">Tadhg's Project</h1>
 
 
-
-<button align="center" class="button" onclick="window.open('Page2.html')">Peramids</button>
+<button align="center" class="button" onclick="window.open('Page2.md')">Peramids</button>
 
 <button align="center" class="button" onclick="window.open('page3.md')">Pheros</button>
 
