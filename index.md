@@ -49,7 +49,7 @@ body, html {
 
 <button align="center" class="button" onclick="window.open('Page2.md')">Peramids</button>
 
-<button align="center" class="button" onclick="window.open('file:///c:/users/caseyja/desktop/html/HTML test.bat')">Pheros</button>
+<button align="center" class="button" onclick="window.open('page3.md')">Pheros</button>
 
 
 </body>
