@@ -43,13 +43,7 @@ body, html {
 
 <div class="bg"></div>
 
-<h1 align="center" style="font-size:300%;">Tadhg's Project</h1>
-
-
-
-<button align="center" class="button" onclick="window.open('file:///c:/users/caseyja/desktop/html/test1.bat')">Peramids</button>
-
-<button align="center" class="button" onclick="window.open('file:///c:/users/caseyja/desktop/html/HTML test.bat')">Pheros</button>
+<h1 align="center" style="font-size:300%;">Tadhg's Project1</h1>
 
 
 </body>
