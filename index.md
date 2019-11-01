@@ -43,7 +43,7 @@ body, html {
 
 <div class="bg"></div>
 
-<h1 align="center" style="font-size:300%;">Tadhg's Project</h1>
+<h1 align="center" style="font-size:300%;">Tadhg's Project HELLO</h1>
 
 
 <button align="center" class="button" onclick="window.open('page2.md')">Peramids</button>
