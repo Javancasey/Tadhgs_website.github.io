@@ -25,7 +25,7 @@ body, html {
     background-color: #3355FF;
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 15px 22px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
