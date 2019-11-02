@@ -25,11 +25,11 @@ body, html {
     background-color: #3355FF;
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 15px 28px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 14px;
     margin: 4px 2px;
     cursor: pointer;
 }
