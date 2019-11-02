@@ -44,7 +44,7 @@ body, html {
 
 <h1 align="center" style="font-size:300%;">Tadhg's Project on Ancient Egypt</h1>
 
-
+<button align="center" class="button" onclick="window.open('page4.html')">Top ten facts about the Egypt</button>
 
 <button align="center" class="button" onclick="window.open('page2.html')">Top ten facts about the Pyramid's</button>
 
