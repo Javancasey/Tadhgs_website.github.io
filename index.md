@@ -42,7 +42,7 @@ body, html {
 
 <div class="bg"></div>
 
-<h1 align="center" style="font-size:300%;">Tadhg's Project on Ancient Egypt</h1>
+<h1 align="center" style="font-size:300%;">Tadhg Casey's Project on Ancient Egypt</h1>
 
 <button align="left" class="button" onclick="window.open('page1.html')">Top ten facts about Egypt</button>
 
